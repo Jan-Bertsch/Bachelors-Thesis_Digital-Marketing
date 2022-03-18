@@ -1,0 +1,82 @@
+ad technolog*
+ai
+application*
+artificial intelligence
+augmented product*
+augmented reality
+barcode*
+bluecasting
+bluejacking
+bot
+botnet*
+bots
+broadband
+business database*
+caching
+cloaking
+cloud service*
+cloud-based
+computer-assisted interviewing
+cross-platform integration*
+cyberspace*
+cybersquatter*
+cyborg*
+data-management platform*
+deep linking
+deployment*
+digital signage
+digital signature*
+digital technolog*
+disruptive technolog*
+e-book*
+electronic bulletin board*
+electronic business*
+end to end
+end user*
+end-to-end
+end-user*
+e-procurement
+extranet
+eye tracking
+e-zine
+firewall*
+graphical user interface*
+gui
+hologram*
+hyperlink*
+inbound link*
+information management technolog*
+interaction technolog*
+interface*
+internet of things
+iot
+ip
+isp
+licensed technolog*
+log file*
+marketing decision support system*
+marketing intelligence system*
+mobile device*
+mobile technolog*
+new application*
+new technolog*
+push technolog*
+qr code*
+quick response code*
+real-time bidding
+robot*
+self-service technolog*
+software as a service
+spyware
+tcp
+technolog*
+technological environment
+technology convergence
+technology management
+technology marketing
+text link exchange*
+transactional log file*
+transmission control protocol*
+voip
+walled garden*
+wi-fi
