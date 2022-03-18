@@ -1,4 +1,5 @@
 # Bachelor's Thesis: Digital Marketing
+## Strategy and Performance Implications for Firms
 
 ### Note
 This GitHub repository is as a supplementation for my bachelor's thesis. Additional files such as the R-Code and dictionaries used for this work can be retrieved from the Repository. Further, I created a Web Appendix using R-Markdown, including additional visualizations.  
