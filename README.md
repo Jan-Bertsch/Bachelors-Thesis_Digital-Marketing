@@ -5,4 +5,4 @@ This GitHub repository is as a supplementation for my bachelor's thesis. Additio
 <br />
 Unfortunately, the Web Appendix is too large to be shown in GitHub, as it contains several interactive plots. It therefore has to be downloaded and opened manually.  
 However, a simple preview version can be viewed by clicking on the following link:
-* [Non-interactive Appendix Preview](https://htmlpreview.github.io/?https://github.com/Jan-Bertsch/Bachelors-Thesis_Digital-Marketing/blob/main/Appendix_Simple.html)
+* [Non-interactive Appendix Preview](https://htmlpreview.github.io/?https://github.com/Jan-Bertsch/Bachelors-Thesis_Digital-Marketing/blob/main/Preview.html)
